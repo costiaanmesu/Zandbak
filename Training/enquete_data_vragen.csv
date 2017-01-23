@@ -1,0 +1,27 @@
+c,1,1,Welk cijfer zou u de behandeling geven? (1=zeer slecht -10= zeer goed),1,1
+c,1,2,Vond u de kliniek goed bereikbaar? (1=totaal niet - 10= uitstekend),2,1
+o,1,3,Wilt u nog iets kwijt?,3,1
+c,1,1,Welk cijfer geeft u de nazorg?  (1=zeer slecht -10= zeer goed),4,2
+c,1,2,Hoe ervaart u effect van de behandeling op een schaal van 1 tot 10?,5,2
+o,1,3,Heeft u nog opmerkingen?,6,2
+j,1,1,Bent u tevreden over het resultaat? [j/n],7,3
+j,1,2,Zou u ons aanraden bij vrienden?  [j/n],8,3
+o,1,3,Nog tips voor ons?,9,3
+c,2,1,Welk cijfer zou u de behandeling geven? (1=zeer slecht -10= zeer goed),10,1
+c,2,2,Vond u de kliniek goed bereikbaar? (1=totaal niet - 10= uitstekend),11,1
+o,2,3,Wilt u nog iets kwijt?,12,1
+c,2,1,Welk cijfer geeft u de nazorg?  (1=zeer slecht -10= zeer goed),13,2
+c,2,2,Hoe ervaart u effect van de behandeling op een schaal van 1 tot 10?,14,2
+o,2,3,Heeft u nog opmerkingen?,15,2
+j,2,1,Bent u tevreden over het resultaat? [j/n],16,3
+j,2,2,Zou u ons aanraden bij vrienden?  [j/n],17,3
+o,2,3,Nog tips voor ons?,18,3
+c,3,1,Welk cijfer zou u de behandeling geven? (1=zeer slecht -10= zeer goed),19,1
+c,3,2,Vond u de kliniek goed bereikbaar? (1=totaal niet - 10= uitstekend),20,1
+o,3,3,Wilt u nog iets kwijt?,21,1
+c,3,1,Welk cijfer geeft u de nazorg?  (1=zeer slecht -10= zeer goed),22,2
+c,3,2,Hoe ervaart u effect van de behandeling op een schaal van 1 tot 10?,23,2
+o,3,3,Heeft u nog opmerkingen?,24,2
+j,3,1,Bent u tevreden over het resultaat? [j/n],25,3
+j,3,2,Zou u ons aanraden bij vrienden?  [j/n],26,3
+o,3,3,Nog tips voor ons?,27,3

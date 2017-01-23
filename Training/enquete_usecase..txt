@@ -1,0 +1,63 @@
+        USERCASE ENQUETE                                      
+                                                              
+        SYSTEEM                                             USER
+1.      vraagt patientnummer
+                                                            2.      geeft patientnummer
+3.      bestaat patient?                                                                                    
+4.      nee: vraagt patientgegevens                                                                         
+        HJ: 4a bij nieuwe patient, patientnummer aanmaken
+                                                            5.      nee: geeft patientgegevens
+                                                                    HJ: 'nee:' kan hier weg
+                                                                    HJ: welke gegevens zou je nog kunnen specificeren
+                                                                    (naam, adres?)
+
+6.      vraagt traject
+        HJ: Hoe? trajectnummer, of keuze uit klachtsoort
+        (heup, knie, schouder)
+        HJ: Bij patienten die al in lopend traject
+        zitten en er maar 1 traject is, zou je het traject
+        ook door het systeem kunnen laten bepalen
+                                                            7.      geeft traject
+8.      zoekt meetmoment bij traject op (null=t0)
+        HJ: hoe? wanneer is meetmoment afgerond?
+9.      zoekt vragenlijst bij meetmoment/ traject
+        HJ: vragenlijsten (meervoud)
+        HJ: 9a: start met eerste vragenlijst
+10.     zoekt vragen bij vragenlijst                                                                        
+11.     stelt vraag (n)
+        HJ: afhankelijk van vraag soort (?)
+                                                            12.     beantwoord vraag
+13.     laatste vraag?                                                                                      
+14.     nee: ga naar 11.                                                                                    
+15.     slaat vragenlijst op
+16.     meldt einde vragenlijst op scherm
+        HJ: 16a: nog een vragenlijst? Ja: ga naar 9a
+17.     logt uit                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
