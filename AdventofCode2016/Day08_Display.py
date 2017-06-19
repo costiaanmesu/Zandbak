@@ -2,6 +2,7 @@
 # http://adventofcode.com/2016/day/8
 
 # OPGAVE DATA #
+
 import os
 data = []
 
